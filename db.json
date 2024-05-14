@@ -1,0 +1,172 @@
+{
+    "agentes": [
+      {
+        "id": 1,
+        "Nome": "Sova",
+        "NomeReal": "Jeremy",
+        "Origem": "russia",
+        "FUNÇÃO": "iniciador"
+      },
+      {
+        "id": 2,
+        "Nome": "Sage",
+        "NomeReal": "Ling Ying Wei",
+        "Origem": "china",
+        "FUNÇÃO": "sentinela"
+      },
+      {
+        "id": 3,
+        "Nome": "Brimstone",
+        "NomeReal": "Liam Byrne",
+        "Origem": "estados unidos",
+        "FUNÇÃO": "controlador"
+      },
+      {
+        "id": 4,
+        "Nome": "Viper",
+        "NomeReal": "Sabine Callas",
+        "Origem": "estados unidos",
+        "FUNÇÃO": "controlador"
+      },
+      {
+        "id": 5,
+        "Nome": "Raze",
+        "NomeReal": "Tayane Alves",
+        "Origem": "brasil",
+        "FUNÇÃO": "duelista"    
+      },
+      {
+        "id": 6,
+        "Nome": "Chamber",
+        "NomeReal": "Vincent Fabron",
+        "Origem": "francês",
+        "FUNÇÃO": "sentinela"
+      },
+      {
+        "id": 7,
+        "Nome": "Killjoy",
+        "NomeReal": "Klara Böhringer",
+        "Origem": "Alemanha",
+        "FUNÇÃO": "sentinela"
+      },
+      {
+        "id": 8,
+        "Nome": "Cypher",
+        "NomeReal": " Amir El Amari",
+        "Origem": "Marrocos",
+        "FUNÇÃO": "sentinela"
+      },
+      {
+        "id": 9,
+        "Nome": "Skye",
+        "NomeReal": " Kirra Foster",
+        "Origem": "Austrália",
+        "FUNÇÃO": "107%"
+      },      {
+        "id": 10,
+        "Nome": "Breach",
+        "NomeReal": "  Erik Torsten",
+        "Origem": "Suécia",
+        "FUNÇÃO": "iniciador"
+      },      
+  
+     {
+        "id": 12,
+        "Nome": "Neon",
+        "NomeReal": "Tala Nicole Dimaapi Valdez",
+        "Origem": "filipinas",
+        "FUNÇÃO": "duelista"
+      },
+      {
+        "id": 13,
+        "Nome": "omen",
+        "NomeReal": "[desconhecido]",
+        "Origem": "[Desconhecido]",
+        "FUNÇÃO": "controlador"
+      },
+      {
+        "id": 14,
+        "Nome": "Clove ",
+        "NomeReal": "[desconhecido]",
+        "Origem": "Escócia",
+        "FUNÇÃO": "controlador"
+      },
+      {
+        "id": 15,
+        "Nome": "Iso",
+        "NomeReal": "[desconhecido]",
+        "Origem": "china",
+        "FUNÇÃO": "duelista"
+      },
+      {
+        "id": 16,
+        "Nome": "Deadlock",
+        "NomeReal": "[desconhecido]",
+        "Origem": "Noruega",
+        "FUNÇÃO": "sentinela"
+      },
+      {
+        "id": 17,
+        "Nome": "Gekko",
+        "NomeReal": "[desconhecido]",
+        "Origem": "estados unidos",
+        "FUNÇÃO": "iniciador"
+      },
+      {
+        "id": 18,
+        "Nome": "Harbor",
+        "NomeReal": "[desconhecido]",
+        "Origem": "Índia",
+        "FUNÇÃO": "controlador"
+      },
+      {
+        "id": 19,
+        "Nome": "Fade",
+        "NomeReal": "[desconhecido]",
+        "Origem": "Turquia",
+        "FUNÇÃO": "iniciador"
+      },
+      {
+        "id": 20,
+        "Nome": "KAY/O",
+        "NomeReal": "[desconhecido]",
+        "Origem": "[desconhecido]",
+        "FUNÇÃO": "iniciador"
+      },
+      {
+        "id": 21,
+        "Nome": "Astra",
+        "NomeReal": "[desconhecido]",
+        "Origem": "República de Gana",
+        "FUNÇÃO": "controladora"
+      },
+      {
+        "id": 22,
+        "Nome": "Yoru",
+        "NomeReal": "[desconhecido]",
+        "Origem": "Japão",
+        "FUNÇÃO": "duelista"
+      },
+      {
+        "id": 23,
+        "Nome": "Reyna",
+        "NomeReal": "[desconhecido]",
+        "Origem": "México",
+        "FUNÇÃO": "duelista"
+      },
+      {
+        "id": 24,
+        "Nome": "Phoenix",
+        "NomeReal": "[desconhecido]",
+        "Origem": "Reino Unido",
+        "FUNÇÃO": "duelista"
+      },
+      {
+        "id": 25,
+        "Nome": "jett",
+        "NomeReal": "Joon-hee ",
+        "Origem": "Coreia do Sul",
+        "FUNÇÃO": "duelista"
+      }
+    ]
+}
